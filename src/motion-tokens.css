@@ -1,0 +1,7 @@
+:root {
+ --duration-xshort:75ms;
+ --duration-short:150ms;
+ --duration-normal:250ms;
+ --ease-out-cubic:cubic-bezier(.215,.61,.355,1);
+ --ease-out-quad:cubic-bezier(.25,.46,.45,.94);
+}
